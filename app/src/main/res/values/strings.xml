@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">王者断兵</string>
+    <string name="label_game_time">游戏进行时间：</string>
+    <string name="label_dragon_num">对方拿龙次数：</string>
+    <string name="label_count_down">下波刷新时间</string>
+    <string name="label_about">\nversion:1.5</string>
+
+    <string name="value_game_time">00:00</string>
+    <string name="value_dragon_num">0</string>
+    <string name="value_count_down">0</string>
+
+    <string name="btn_add_time">+1秒</string>
+    <string name="btn_reduce_time">-1秒</string>
+    <string name="btn_kill_dragon">对方拿龙+1</string>
+    <string name="btn_game_start">游戏开始</string>
+</resources>
